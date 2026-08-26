@@ -1,0 +1,459 @@
+date_accident,Hour,TYPE_VEHICULE,VEHICULE_NAME,DESCRIPTION_Of_ACCIDENT,Number_of_years_in_use,DRIVER_NAME,CAR_OWNER_NAME,DRIVERS_STATE,VEHICULE_DAMAGE_CONDITION,accident_TYPE,ACCIDENT_LOCATION,ROAD_CONDITION
+2014-05-30,18h20,Motorcycle,Moto TVS bajaj,Moto TVS Bajaja against pedestrian,5,,Kakule Mahamba,Speeding,,Non-fatal,Ivugha Road near Kiwede Market,Good
+2014-06-01,19h40,Truck,Toyota  rav4,Jeep Toyota RAV4 against Moto Haoudjin,3,Kambale Mushanyiri,Kambale Mushanyiri,Speeding,,Fatal,Jerryson Roundabout,Good
+2014-06-05,15h45,Large truck,Mercedes benz,Mercedes Benz,15,Kasero,Kasereka Sikavya Samy,Mechanical failure,,Non-fatal,Catholic Concession near UCG,Good
+2014-06-11,8h15,Car,Toyota,Car Toyota against Moto Senke,4,Kambale Samuel and Djoki Dunia and Djoki,Kagheni Djoki Dunia,Wrong maneuver,,Non-fatal,"President of the Republic Street, above CADECO",Good
+2014-06-11,9h45,Car,Toyota carina,Car Carina against Moto Haodjang,6,Unknown,Unknown,Poor parking,,Non-fatal,La Victoire Parking,Good
+2014-06-17,10h00,Motorcycle,Moto Senke,Moto Senke,3,Kakule Muhatikani,Kakule Muhatikani,Failure to maintain safe distance between Vehicles,Damaged Motorcycle,Non-fatal,Takenga Roundabout,Good
+2014-06-18,20h,Motorcycle,Haojiang,Haodjang against Senke Tembo,5,Mumbere Patrick and Journaliste,,Speeding,No damage,Non-fatal,Biassa Intersection,Good
+2014-06-21,13h,Large truck,Mitsubishi fuso,Mitsubishi Fuso against Moto cyclist,3,Kabuyaya Nsyancla and Kakule Kahongya,Kasero Samo,Poor parking,Fatal,Fatal,Biassa Intersection,Good
+2014-06-21,15h30,Bicycle,Phoenix,Moto Haodjin against pedestrian,7,Kambale Patient and Micheline,Kambale Patient and Micheline,Speeding,No damage,Non-fatal,Matokeo Avenue,Good
+2014-07-05,6h30,Motorcycle,Moto Haojin,Car Toyota Premio against cyclist,25,Mbusa Kandoli and an Unknown Person,Driver of COOPEC Imara/Beni,Speeding,No damage,Non-fatal,Ivugha Road near Kiwede Market,Good
+2014-07-06,9h45,Car,Toyota premio,Isuzu Bovne against relocation vehicle,15,,Driver of Maison Vyambwera,Involuntary manslaughter,,Fatal,"President of the Republic Street, above CADECO",Good
+2014-07-16,17h00,Truck,Isuzu bovine,Isuzu Forward against Toyota RAV4,6,Kasereka Jackson and Paluku,Kenda Kenda and Driver of Butembo-Beni Catholic Diocese,Speeding,Nothing,Non-fatal,Kitatumba,Good
+2014-08-16,16h5,Truck,Isuzu forward,Suzuki XL against unidentified Moto,14,Mbusamwira Wavanji,Olivier and Unknown,Speeding,Significant damage to Toyota Corolla,Fatal,Rwenda Road,Good
+2014-08-26,16h2,Truck,Toyota  rav4,Jeep Toyota RAV4 against Car Corolla,1,Kakule Kakundika and Kasero,Kakule Kakundika and Kasero,Mechanical failure,,Fatal,Kinshasa Street and Evêché Street Intersection,Good
+2014-09-03,14h50,Truck,Suzuki xl,Moto Haodjine against Moto Haodjin,9,Muhindo Prince and Bienvenu,Muhindo Prince and Bienvenu,Wrong maneuver,No damage,Non-fatal,Kinshasa Street and Evêché Street Intersection,Good
+2014-09-09,20h9,Motorcycle,Moto Senko,Moto Senko against Moto Senko,10,Kangitsi Sylvestre,Kangitsi Sylvestre,Poor parking,No damage,Fatal,SOFICOM Roundabout,Bad
+2015-05-01,16h5,Motorcycle,Moto TVS,Moto TVS alone,7,Kasereka Vwaluma,Kasereka Vwaluma,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,Ambiance Street and Market Avenue Intersection,Bad
+2015-05-02,12h00,Car,Toyota corona primo,Car Corona Premio,12,Kombi Saambili,Kombi Saambili,Speeding,Motorcycle damaged,Non-fatal,Peace Roundabout,Bad
+2015-05-09,16h15,Car,Toyota ipsum,Car Ipsum,9,Kambale Fabrice,Kambale Fabrice,Poor parking,Car damaged,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2015-05-09,17h00,Motorcycle,Moto Haojin,Moto Haodjin,3,Paluku Kyalwayi,Paluku Kyalwayi,Speeding,No damage,Fatal,Paluku Denis Road,Good
+2015-05-13,8h15,Motorcycle,Haojang,Moto Haujang,4,Paluku Samy,Paluku Samy,Speeding,Motorcycle damaged,Non-fatal,Maman Musayi Road,Good
+2015-05-21,16h00,Motorcycle,Moto Senko,Moto Senke,3,Kasereka Wanza,Kasereka Wanza,Involuntary manslaughter,Motorcycle damaged,Fatal,Njiapanda,Good
+2015-05-21,15h00,Motorcycle,Haojue,Moto Haojue,4,Kakule Valira,Kakule Valira,Speeding,No damage,Non-fatal,Ambiance Street,Good
+2015-05-26,16h10,Motorcycle,Moto Haojin,Moto Haodjin,3,Mumbere Julien,Mumbere Julien,Speeding,Less important,Non-fatal,Ambiance Street,Good
+2015-06-06,19h40,Truck,Mercedes benz,Dump truck against Moto Haodjin,4,Kombozi,Kombozi,Mechanical failure,Less important,Non-fatal,Rwenda Road,Good
+2015-06-06,17h00,Motorcycle,Moto Senko,Moto Senko against Moto Senko,10,Katsya Saturne,Katsya Saturne,Wrong maneuver,Motorcycle damaged,Fatal,Ambiance Street,Bad
+2015-06-06,17h5,Truck,Mercedes benz,Benz truck against Fuso,7,Moise,Moise,Poor parking,Important,Non-fatal,Njiapanda,Bad
+2015-06-06,20h2,Large truck,Fuso,Moto Haonjang,8,Nephtali,Nephtali,Failure to maintain safe distance between Vehicles,Important,Non-fatal,Njiapanda,Bad
+2015-06-06,15h37,Motorcycle,Haojang,Moto Senke against Moto Haodjin,5,Paluku Kagheni,Paluku Kagheni,Speeding,Very important,Non-fatal,Ambiance Street and Market Avenue Intersection,Bad
+2015-06-17,16h07,Car,Toyota  rav4,Vehicle Toyota RAV4 against Moto Haodjin,3,Kasereka Vuvaka and Kasereka Sadiki,Kasereka Vuvaka and Kasereka Sadiki,Poor parking,Damaged Motorcycle,Non-fatal,Njiapanda,Bad
+2015-06-27,20h00,Motorcycle,Haojang,Moto Haonjang against Moto Haodjin,15,Muhindomutsuva,Muhindomutsuva,Speeding,Both Motorcycles damaged,Non-fatal,Mutiri,Bad
+2015-07-08,15h50,Truck,Jeep nissan,Jeep Nissan Patrol against Moto Haodjin,4,Kasereka Mathe and Kambale Sombe,Kasereka Mathe and Kambale Sombe,Speeding,Significant damage to the Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2015-07-10,14h50,Large truck,Fuso,Mitsubishi Fuso,6,Paluku Kamabu,Paluku Kamabu,Involuntary manslaughter,Significant damage to Mitsubishi,Non-fatal,Vuhika Roundabout,Good
+2015-07-17,8h30,Truck,Mercedes benz,Mercedes Benz against Moto Haodjin,3,Monusco Lubero and Kamabale Matofali,MONUSCO Lubero Driver and Kamabale Matofali,Speeding,Important,Fatal,Njiapanda,Good
+2015-07-17,15h00,Motorcycle,Tvs,Moto TVS,5,Kasereka Musavuli,Kasereka Musavuli,Speeding,Very important,Non-fatal,Kangote,Good
+2015-07-18,10h00,Motorcycle,Moto Haojin,Moto Haodjin against bicycle,3,Driver of Ets Molo Service,Driver of Ets Molo Service,Mechanical failure,No damage,Fatal,Kangote,Good
+2015-07-24,16h00,Car,Toyota  rav4,Car RAV4,7,Kakule Kiverwa,Kakule Kiverwa,Wrong maneuver,No damage,Non-fatal,Cap Lusando,Good
+2015-07-25,15h00,Truck,Fuso,Mitsubishi Fuso,25,Paluku Musukura,Paluku Musukura,Poor parking,No damage,Fatal,Cap Lusando,Good
+2015-08-01,17h00,Truck,Toyota hilux,Hilux against Moto Senke,15,Unknown,Unknown,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,Vutetse,Good
+2015-08-03,17h00,Motorcycle,Haojang,Moto Haojang against pedestrian,6,Kasereka Kabyongo Jerome,Unknown,Speeding,No damage,Non-fatal,Paluku Denis Road,Good
+2015-08-08,15h00,Car,Toyota,Car MZJA against Moto Haodjin,14,Selemani,Selemani,Poor parking,Car damaged,Non-fatal,SOFICOM Roundabout,Good
+2015-08-15,13h30,Bus,Toyota,Mini Bus Toyota,1,Mbusa Muchira,Mbusa Muchira,Speeding,No damage,Non-fatal,Kangote,Good
+2015-08-02,07h40,Motorcycle,Moto Haojin,Moto Haodjin against Hilux,9,Kambale Kisaka,Driver of Butembo-Beni Catholic Diocese,Speeding,Kiosk damaged,Non-fatal,Rwenda,Good
+2015-08-28,19h00,Car,Toyota,Car Toyota against Haodjin,10,Jacob Malikwisha,Kabonge Kaniandoto,Involuntary manslaughter,Van damaged,Non-fatal,Lusando,Good
+2015-08-22,17h00,Car,Toyota corona,Car Toyota Corona against Car Toyota Carina,7,Kasereka Kitoko,Kasereka Kitoko,Speeding,Car and Motorcycle damaged,Non-fatal,"President of the Republic Street, above CADECO",Good
+2015-08-20,22h00,Car,Toyota carina,Car Carina against small truck Dihna,12,Unknown,Unknown,Speeding,Two Vehicles damaged,Non-fatal,Paluku Denis Road,Good
+2015-09-01,17h00,Car,Toyota carina,Car Toyota Carina against Moto Senko,9,Unknown,Unknown,Mechanical failure,No damage,Non-fatal,Njiapanda,Good
+2015-09-26,10h50,Motorcycle,Moto Haojin,Moto Haodjin,3,Kasereka Manginda,Kasereka Manginda,Wrong maneuver,Three-Wheeled Motorcycle damaged,Non-fatal,Mutsanga Road,Good
+2015-09-25,19h05,Car,Toyota corona,Car Toyota Corona against Moto Haodjin,4,Kasereka Esee,Kasereka Esee,Poor parking,Damaged Car,Fatal,President of the Republic Street above KAFEKITE,Good
+2015-09-26,17h30,Car,Toyota,Car Toyota against pedestrian,3,Kambale Kitambala and Kasereka Kivayathi,Kambale Kitambala and Kasereka Kivayathi,Failure to maintain safe distance between Vehicles,Severe damage to Vehicle and Motorcycle,Fatal,Paluku Denis Road,Good
+2015-10-03,18h30,Truck,Toyota  rav4,Jeep Toyota against Prado,4,Kasereka Kamate,Kasereka Kamate,Speeding,Nothing,Non-fatal,Paluku Denis Road,Good
+2015-10-11,07h00,Truck,Mercedes benz,Benz against Moto Haojang,3,Nzanzu Other Non-Identified,Nzanzu and Unknown,Poor parking,Significant damage to Mercedes Benz,Fatal,Rwenda,Good
+2015-10-11,07h21,Truck,Toyota jeep rav4,Toyota RAV4 against Moto Haodjin,4,Madame Denise,Madame Denise,Speeding,Toyota RAV4 and Motorcycle damaged,Non-fatal,Kangote,Good
+2015-10-24,18h40,Motorcycle,Moto Senke,Moto Senke against Moto Haodjin,10,On the Run,Unknown,Speeding,No damage,Non-fatal,Njiapanda,Good
+2015-10-25,08h00,Bicycle,Euro,Bicycle against pedestrian,7,On the Run,Unknown,Involuntary manslaughter,No damage,Fatal,President of the Republic Street above Matanda Hospital,Bad
+2015-10-19,15h00,Truck,Mercedes benz,Benz against bicycle,8,Unknown,Unknown,Speeding,Damaged Vehicle,Non-fatal,Buyonga Village,Bad
+2015-10-25,12h00,Truck,Mercedes benz,Benz Fuso,5,Unknown,Unknown,Speeding,Damaged Vehicle,Non-fatal,Kibiribiri,Bad
+2015-10-27,06h00,Motorcycle,Bodaboda,Moto Bodaboda Senke against Moto Haodjin,3,Unknown,Unknown,Mechanical failure,Damaged Motorcycle,Fatal,Kinshasa Street,Bad
+2015-11-04,17h30,Motorcycle,Yamaha,Moto Yamaha,15,Unknown,Unknown,Wrong maneuver,No damage,Fatal,Ambiance Street,Bad
+2015-11-05,09h00,Car,Toyota premio,Car Toyota Premio against Fuso vehicle,4,Kakule Mbokani Fabrice,Kakule Mbokani Fabrice,Poor parking,Damaged Car,Non-fatal,President of the Republic Street above the FEC,Bad
+2015-11-06,18h30,Bicycle,Phoenix,Bicycle Phoenix against pedestrian,6,Mumbere Maliro Fiston,Mumbere Maliro Fiston,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,Paluku Denis Road,Good
+2015-11-08,17h00,Truck,Toyota  rav4,Jeep RAV4 against Car MakII,3,Kamungele Nzanzu,Kamungele Nzanzu,Speeding,Damaged Car,Fatal,President of the Republic Street above OFIDA,Bad
+2015-11-09,07h30,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,5,Unknown,Unknown,Poor parking,No damage,Fatal,Ambiance Street,Good
+2015-11-10,20h00,Motorcycle,Moto Senke,Senke against RAV4,3,Chef OCC,OCC Chief,Speeding,Damaged Vehicle,Non-fatal,Ambiance Street,Good
+2015-11-24,20h15,Truck,Jeep nissan,Jeep Nissan,7,Paluku Mulamba,Paluku Mulamba,Speeding,,Non-fatal,President of the Republic Street above Masisi,Good
+2015-11-25,21h10,Car,Toyota carina,Car Toyota Carina,25,Kakule Karambaki,Kakule Karambaki,Involuntary manslaughter,No damage,Non-fatal,Ambiance Street,Good
+2015-11-27,14h00,Truck,Jeep nissan,,15,Muhindo Lusenge,CENI Driver,Speeding,,Fatal,"President of the Republic Street, above CADECO",Good
+2015-11-27,18h30,Car,Toyota hilux,,6,Muhindo Musavuli,Muhindo Musavuli,Speeding,Vehicle and Motorcycle damaged,Fatal,Njiapanda,Good
+2015-11-27,07h40,Truck,Toyota  rav4,,14,Unknown,Unknown,Mechanical failure,Damaged Motorcycle,Non-fatal,Kingungu,Good
+2015-11-28,17h30,Motorcycle,Yamaha,,1,Jonas Kakule Musavuli,Jonas Kakule Musavuli,Wrong maneuver,Damaged Motorcycle,Fatal,President of the Republic Street above OFIDA,Good
+2015-11-30,20h30,Bus,Toyota,,9,Paluku Fiston,Paluku Fiston,Poor parking,Toyota Corolla Car damaged,Non-fatal,Ambiance Street,Good
+2015-12-01,17h30,Car,Toyota premio,,10,Shauri,Shauri,Failure to maintain safe distance between Vehicles,Minibus damaged,Fatal,Njiapanda,Good
+2015-11-10,12h15,Motorcycle,Moto Senko,,7,Mumbere Makata,Mumbere Makata,Speeding,No damage,Non-fatal,Takenga Roundabout,Bad
+2015-12-12,11h40,Truck,Jeep suzuki,Jeep Suzuki,12,Kambale Muhasa,Kambale Muhasa,Poor parking,Suzuki and Kidubai House fence damaged,Fatal,President of the Republic Street above CADECO,Bad
+2015-12-13,20h00,Truck,Toyota  rav4,Jeep Toyota RAV4,9,Kambale Gedeon,Kambale Gedeon,Speeding,Less important,Non-fatal,Ambiance Street,Good
+2015-12-16,10h58,Motorcycle,Moto Senko,,3,Kambale Kakundika,Kambale Kakundika,Speeding,Two Motorcycles damaged,Non-fatal,Ambiance Street,Good
+2015-12-19,12h15,Truck,Isuzu,Truck Isuzu,4,Kakule Syauswa,Kakule Syauswa,Involuntary manslaughter,Damaged Vehicle,Non-fatal,Auberge Road,Good
+2015-12-20,19h00,Truck,Toyota  rav4,Jeep Toyota RAV4,3,Kakule Bedjame,Kakule Bedjame,Speeding,Damaged Jeep,Non-fatal,President of the Republic Street above Kangote,Good
+2015-12-20,10h00,Motorcycle,Moto Senke,Moto Senke,4,Archipe,Archipe,Speeding,No damage,Non-fatal,Furu,Good
+2015-12-25,08h00,Car,Toyota,Car Toyota,3,Mahamba Kegho,Mahamba Kegho,Mechanical failure,No damage,Fatal,Ambiance Street,Good
+2015-12-27,22h00,Car,Toyota carina,Car Toyota Carina,4,Pascale Maelezo,Pascale Maelezo,Wrong maneuver,Damaged Motorcycle,Fatal,Ambiance Street,Good
+2015-12-29,16h00,Car,Toyota IST,Car Toyota IST,10,Kambale Grâce,Kambale Grâce,Poor parking,Car and fence damaged,Non-fatal,Ambiance Street,Good
+2015-12-30,16h00,Motorcycle,Yamaha,Moto Yamaha,7,Unknown,Unknown,Failure to maintain safe distance between Vehicles,No damage,Fatal,Ambiance Street,Good
+2016-01-01,10h00,Truck,Toyota  rav4,Jeep Toyota RAV4,8,Non-Identified,Unknown,Speeding,Damaged Jeep,Non-fatal,Ambiance Street,Good
+2016-01-01,08h30,Truck,Fuso,Truck Fuso,4,Non-Identified,Unknown,Poor parking,Damaged Truck,Non-fatal,Ambiance Street,Good
+2016-01-02,12h04,Car,Toyota premio,Car Toyota Premio against pedestrian,4,Mumbere Muvunga Piscase,Mumbere Muvunga Piscase,Speeding,No damage,Fatal,Rwenda,Good
+2016-01-02,13h00,Truck,Fuso,Mitsubishi Fuso against Moto Haodjin,4,Mumbere Kaghoma Jonathan,Mumbere Kaghoma Jonathan,Speeding,Damaged Car,Non-fatal,La Victoire Parking,Good
+2016-01-05,09h00,Truck,Toyota premio,Toyota Premio against pedestrian,5,Kasereka Kitali,Kasereka Kitali,Involuntary manslaughter,No damage,Non-fatal,Ambiance Street,Good
+2016-01-11,11h40,Motorcycle,Moto Haojin,Moto Haodjin against Vehicle RAV4,3,Mumbere Mastaki,Mumbere Mastaki,Speeding,No damage,Non-fatal,Kangote,Good
+2016-01-16,08h30,Truck,Toyota  rav4,RAV4 against Moto Haodjin,15,Lambert,Lambert,Speeding,No damage,Non-fatal,Ambiance Street,Good
+2016-01-20,16h15,Motorcycle,Moto Senke,Moto against vehicle,4,Kakule Mulyangunzo,Kakule Mulyangunzo,Mechanical failure,No damage,Non-fatal,President of the Republic Street above Vodacom,Good
+2016-01-23,10h40,Truck,Toyota  rav4,RAV4 against Moto Haodjin,6,Katembo Toma,Katembo Toma,Wrong maneuver,No damage,Fatal,Ambiance Street,Good
+2016-01-23,5h00,Truck,Mercedes benz,Mercedes Benz,3,Unknown,Unknown,Poor parking,Damaged Truck,Non-fatal,Vutsundo Bridge,Good
+2016-01-23,6h00,Motorcycle,Haojang,Moto Haojang against pedestrian,5,,,Failure to maintain safe distance between Vehicles,Nothing,Non-fatal,Ambiance Street,Good
+2016-01-24,19h55,Motorcycle,Moto Senko,Moto against itself,3,Unknown,Unknown,Speeding,Motorcycle damaged,Fatal,Ambiance Street,Good
+2016-01-24,20h45,Motorcycle,Moto Haojin,Moto Haodjin against another unidentified Moto,7,Unknown,Unknown,Poor parking,No damage,Non-fatal,Ambiance Street,Good
+2016-01-26,22h00,Truck,Jeep land cruiser,Vehicle Toyota Land Cruiser,25,Kaboya,Kaboya,Speeding,No damage,Non-fatal,Ambiance Street,Good
+2106-01-27,19h30,Motorcycle,Moto Haojin,Moto Haodjin against Car Toyota,15,Kabuyaya Muyisa,Kabuyaya Muyisa,Speeding,No damage,Non-fatal,SERKAS Station,Good
+2016-01-28,10h00,Motorcycle,Moto Senke,Moto Senko against pedestrian,6,Unknown,Unknown,Involuntary manslaughter,Damaged Car,Fatal,"President of the Republic Street, above CADECO",Good
+2016-01-29,7h30,Motorcycle,Tvs,,14,Walaka Richard,Walaka Richard,Speeding,No damage,Non-fatal,Kangote,Good
+2016-01-30,9h50,Motorcycle,Moto haojang,,1,Mazya Kambale Elias,Mazya Kambale Elias,Speeding,No damage,Non-fatal,Kangote,Good
+2016-02-05,11h40,Truck,Jeep land cruiser,,9,Bahati and Muvagha,Driver of Butembo-Beni Catholic Diocese,Mechanical failure,Damaged Jeep,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-02-09,19h00,Motorcycle,Moto Senko,,10,Mumbere Mwenge and Moise Nzanzu,Mumbere Mwenge and Moise Nzanzu,Wrong maneuver,Damaged Senko Motorcycle,Non-fatal,President of the Republic Street near the MGL entrance,Good
+2016-02-09,8h7,Car,Toyota premio,,7,Kakule Moise,Kamungele,Poor parking,No damage,Non-fatal,President of the Republic Street above the GTB,Good
+2016-02-09,14h00,Truck,Jeep land cruiser,,12,Kalumba and Bibisha,Unknown,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,Rwenda Road,Good
+2016-02-10,17h00,Truck,Rahum,,9,Ndayiriho and Florent,Ndayiriho and Florent,Speeding,No damage,Non-fatal,Vutetse,Good
+2016-02-11,11h00,Truck,Sino,,3,Kasereka and Rolin,Kasereka and Rolin,Poor parking,Damaged Vehicle,Non-fatal,President of the Republic Street above Kihidro Station,Good
+2016-02-16,14h00,Large truck,Fuso and benz,,4,Kahavo Ghilson and Noé Matembela,Kahavo Ghilson and Noé Matembela,Speeding,Damaged Motorcycle,Non-fatal,President of the Republic Street above ETS Haojoue,Good
+2016-02-16,15h30,Truck,Toyota hilux,Toyota hilux against Moto Haojue,3,Kambale Rwend,Kambale Rwend,Speeding,Vehicle and Motorcycle damaged,Non-fatal,Historic Roundabout,Bad
+2016-02-16,6h00,Motorcycle,Moto Senko,,4,Kasereka Serge,Kasereka Serge,Involuntary manslaughter,Damaged Motorcycle,Non-fatal,Historic Roundabout,Bad
+2016-03-07,23h30,Large truck,Mitsubishi fuso,Mitsubishi Fuso,3,Kambale Wakipopo,Kambale Wakipopo,Speeding,Vehicle and fence wall damaged,Non-fatal,Center Avenue in front of Kimemi Commune,Bad
+2016-03-13,14h30,Large truck,Mitsubishi fuso,Mitsubishi Fuso,4,Philippe,Philippe,Speeding,Vehicle damaged,Non-fatal,Kyondo Road to Misebere,Bad
+2016-03-14,8h30,Truck,Isuzu san,,10,Mumbere Lusenge,Mumbere Lusenge,Mechanical failure,,Non-fatal,Malende Komba Road,Bad
+2016-03-16,10h25,Truck,Mercedes Benz,,7,Muhindo Sadiki,Muhindo Sadiki,Wrong maneuver,A House And A Kiosk,Non-fatal,Malende Komba Road,Bad
+2016-03-17,14h30,Truck,Toyota dyna,,8,Kavatsawa,Kavatsawa,Poor parking,Haojue Motorcycle,Non-fatal,President of the Republic Street above ETS Haojoue,Bad
+2016-03-17,17h29,Motorcycle,Moto haojin,,3,Muhindo Kabula,Muhindo Kabula,Failure to maintain safe distance between Vehicles,Haodjin Motorcycle And TVS Motorcycle,Non-fatal,President of the Republic Street above Kikungu,Bad
+2016-03-18,18h30,Truck,Isuzu san,,7,On the Run,Unknown,Speeding,No damage,Fatal,Ambiance Street,Bad
+2016-03-19,7h31,Motorcycle,Moto Senko,,4,On the Run,Unknown,Poor parking,Destroyed Building,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-03-21,17h32,Motorcycle,Haojue,,6,On the Run,Unknown,Speeding,Two Motorcycles damaged,Non-fatal,Ambiance Street,Good
+2016-03-23,11h33,Truck,Toyota  rav4,,7,On the Run,Unknown,Speeding,One Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-03-24,15h34,Motorcycle,Tvs,,4,On the Run,Unknown,Involuntary manslaughter,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-03-29,11h30,Truck,Toyota,,6,On the Run,Unknown,Speeding,Toyota Corolla Car damaged,Fatal,"President of the Republic Street, above CADECO",Good
+2016-03-29,14h30,Car,Nissan,,3,On the Run,Unknown,Speeding,Car damaged,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-03-30,10h30,Motorcycle,Haojue,,5,Kambale,Kambale,Mechanical failure,Toyota RAV4 and Motorcycle damaged,Fatal,SOFICOM Roundabout,Good
+2016-04-02,14h30,Motorcycle,D-tray,,3,Saambili,Saambili,Wrong maneuver,Damaged Motorcycle,Non-fatal,SOFICOM Roundabout,Good
+2016-04-02,13h30,Motorcycle,Moto Senko,Moto Senko against Moto Senko,8,On the Run,Unknown,Poor parking,Damaged Senko Motorcycle,Non-fatal,Ambiance Street,Good
+2016-04-06,14h30,Car,Toyota stout,,8,Kakule,Unknown,Failure to maintain safe distance between Vehicles,Haojue Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-04-06,12h30,Truck,Toyota  rav4,,4,Kambale Jean,Kambale Jean,Speeding,Bodaboda,Non-fatal,Historic Roundabout,Good
+2016-04-07,14h30,Bus,Toyota,,9,Non-Identified,Unknown,Poor parking,No damage,Non-fatal,Vutetse,Good
+2016-04-10,16h30,Motorcycle,Moto Senko,,4,Paluku Lwanzo,Paluku Lwanzo,Speeding,No damage,Non-fatal,Lusando,Good
+2016-04-10,19h30,Truck,Jeep land cruiser,,8,Kasereka Matabishi,Kasereka Matabishi,Speeding,Two Vehicles damaged,Non-fatal,Kangote,Good
+2016-04-11,17h31,Truck,Jeep land cruiser,,8,Non-Identified,Unknown,Involuntary manslaughter,Rahumu Car,Non-fatal,Njiapanda,Good
+2016-04-12,15h32,Car,Toyota,,2,Non-Identified,Unknown,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-04-13,15h33,Truck,Jeep prado,,1,Non-Identified,Unknown,Speeding,No damage,Non-fatal,SOFICOM Roundabout,Good
+2016-04-14,16h34,Car,Toyota premio,,2,Non-Identified,Unknown,Mechanical failure,No damage,Non-fatal,Mutiri,Good
+2016-04-15,10h35,Motorcycle,Mercedes actros,,3,Non-Identified,Unknown,Wrong maneuver,Toyota Corolla Car damaged,Non-fatal,Mutiri,Good
+2016-04-16,09h36,Truck,Nissan,,6,Non-Identified,Unknown,Poor parking,Car damaged,Non-fatal,Njiapanda,Good
+2016-04-17,22h37,Car,Toyota premio,,7,Non-Identified,Unknown,Failure to maintain safe distance between Vehicles,Toyota RAV4 and Motorcycle damaged,Fatal,Rwenda,Good
+2016-04-18,19h38,Motorcycle,Moto Senke,Moto Senke against Moto Haodjin,4,Non-Identified,Unknown,Speeding,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-05-02,6h39,Car,Toyota carina,,4,On the Run,Unknown,Poor parking,Damaged Senko Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-05-02,14h40,Large truck,Unknown,,8,On the Run,Unknown,Speeding,Haojue Motorcycle,Non-fatal,Mutsanga Bridge,Good
+2016-05-04,20h41,Truck,Jeep x-trail,,4,On the Run,Unknown,Speeding,Bodaboda,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-05-05,19h42,Car,Toyota corolla,,4,,Alain Mukululi,Involuntary manslaughter,No damage,Non-fatal,Rwenda Road,Good
+2016-05-06,11h43,Car,Toyota corona,,3,Non-Identified,Unknown,Speeding,No damage,Non-fatal,Butembo-Beni Road above Kisalala,Bad
+2016-05-06,12h44,Motorcycle,Moto Senko,,4,Non-Identified,Unknown,Speeding,Two Vehicles damaged,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-05-07,14h45,Truck,Tata,,5,Paluku Kabuyaya,Paluku Kabuyaya,Mechanical failure,Rahumu Car,Non-fatal,Butembo-Beni Road above Kisalala,Good
+2016-05-08,07h46,Motorcycle,Tvs,,4,,Lweru Kasereka,Wrong maneuver,No damage,Non-fatal,Ambiance Street,Good
+2016-05-18,18h47,Truck,Jeep land cruiser,,2,Obadi,Obadi,Poor parking,No damage,Non-fatal,Ambiance Street,Good
+2016-05-11,05h48,Truck,Toyota  rav4,,9,Kasereka Elie,Kasereka Elie,Failure to maintain safe distance between Vehicles,Toyota Corolla Car damaged,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-05-12,3h49,Motorcycle,Moto Haojin,,8,Maleke Kayenga,Maleke Kayenga,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-05-12,16h00,Truck,Toyota  rav4,,7,Non-Identified,Unknown,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-05-13,16h49,Car,Rahum,,6,,Unknown,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-05-14,13h59,Motorcycle,Haojue,,5,Unknown,Unknown,Speeding,Nothing,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-05-15,8h00,Motorcycle,Moto Senko,,5,Unknown,Unknown,Involuntary manslaughter,Nothing,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-05-16,17h49,Motorcycle,Haojang,,2,,Kakule Musehya,Speeding,Damaged Motorcycle,Fatal,Vutetse,Good
+2016-05-17,20h7,Motorcycle,Haojang,,2,Unknown,Unknown,Speeding,Damaged Motorcycle,Non-fatal,Njiapanda,Bad
+2016-05-18,11h49,Motorcycle,Tvs,,3,,Ezee,Mechanical failure,Damaged Jeep,Fatal,Mutiri,Good
+2016-05-19,15h50,Motorcycle,Moto Senko,,3,,Paluku Nziwa,Wrong maneuver,Damaged TVS Motorcycle,Fatal,Kangote,Good
+2016-05-20,10h51,Car,Toyota,Moto Senko against pedestrian,3,,Kambale,Poor parking,Damaged Senko Motorcycle,Non-fatal,Ambiance Street,Good
+2016-05-21,15h52,Truck,Mercedes actros,,2,,Kasereka Kinyama,Failure to maintain safe distance between Vehicles,Damaged Toyota Car,Fatal,President of the Republic Street above the FEC,Good
+2016-05-22,09h53,Motorcycle,Moto Haojin,,2,Unknown,Unknown,Speeding,Damaged Vehicle,Non-fatal,Mutsanga Road,Bad
+2016-05-23,10h54,Motorcycle,Moto Haojin,,7,,Kasereka Kamugha,Poor parking,No damage,Non-fatal,Vutetse,Bad
+2016-05-24,08h35,Motorcycle,Tvs,,4,,Paluku Kasonia,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-05-25,09h5,Car,Toyota,Car Toyota against Moto Senke,6,,Mumbere Jannot,Speeding,Bicycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-05-26,10h27,Large truck,Fuso and benz,,7,,Kambale Siriwayo,Involuntary manslaughter,Significant damage to the Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-05-27,20h8,Truck,Toyota hilux,,4,Kalumba and Bibisha,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-05-28,11h50,Truck,Toyota  rav4,,6,Ndayiriho and Florent,Ndayiriho and Florent,Speeding,Damaged Vehicle,Non-fatal,La Victoire Parking,Bad
+2016-05-29,15h51,Motorcycle,Yamaha,,3,Kasereka and Rolin,Kasereka and Rolin,Mechanical failure,Damaged Motorcycle,Non-fatal,Takenga Roundabout,Good
+2016-05-30,10h52,Bus,Toyota,,5,Kahavo Ghilson and Noé Matembela,Kahavo Ghilson and Noé Matembela,Wrong maneuver,Vehicle and Motorcycle damaged,Non-fatal,Biassa Intersection,Good
+2016-06-01,15h53,Car,Toyota premio,,3,Kambale Rwend,Kambale Rwend,Poor parking,Damaged Motorcycle,Non-fatal,Biassa Intersection,Good
+2016-06-02,09h54,Motorcycle,Moto Senko,,8,Kasereka Serge,Kasereka Serge,Failure to maintain safe distance between Vehicles,Vehicle and fence wall damaged,Fatal,Matokeo Avenue,Good
+2016-06-03,10h55,Truck,Jeep suzuki,Jeep Suzuki,8,Kambale Wakipopo,Kambale Wakipopo,Speeding,Vehicle damaged,Non-fatal,Ivugha Road near Kiwede Market,Bad
+2016-06-04,08h36,Truck,Toyota  rav4,Jeep Toyota RAV4,4,Philippe,Philippe,Poor parking,,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-06-05,09h6,Motorcycle,Moto Senko,,9,Mumbere Lusenge,Mumbere Lusenge,Speeding,A House And A Kiosk,Fatal,Kitatumba,Bad
+2016-06-06,10h28,Truck,Isuzu,Truck Isuzu,4,Muhindo Sadiki,Muhindo Sadiki,Speeding,Haojue Motorcycle,Non-fatal,Rwenda Road,Good
+2016-06-07,20h9,Truck,Toyota  rav4,Jeep Toyota RAV4,8,Kavatsawa,Kavatsawa,Involuntary manslaughter,Haodjin Motorcycle And TVS Motorcycle,Fatal,Kinshasa Street and Evêché Street Intersection,Good
+2016-06-08,11h51,Motorcycle,Moto Senke,Moto Senke,8,Muhindo Kabula,Muhindo Kabula,Speeding,No damage,Fatal,Kinshasa Street and Evêché Street Intersection,Good
+2016-06-09,15h52,Car,Toyota,Car Toyota,2,On the Run,,Speeding,Destroyed Building,Fatal,SOFICOM Roundabout,Good
+2016-06-10,10h53,Car,Toyota carina,Car Toyota Carina,1,On the Run,,Mechanical failure,Two Motorcycles damaged,Non-fatal,Ambiance Street and Market Avenue Intersection,Bad
+2016-06-11,15h54,Car,Toyota IST,Car Toyota IST,2,On the Run,,Wrong maneuver,One Damaged Motorcycle,Fatal,Peace Roundabout,Bad
+2016-06-12,09h55,Motorcycle,Yamaha,Moto Yamaha,3,On the Run,,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-06-13,10h56,Truck,Toyota  rav4,Jeep Toyota RAV4,6,On the Run,,Failure to maintain safe distance between Vehicles,Toyota Corolla Car damaged,Fatal,Paluku Denis Road,Good
+2016-06-14,08h37,Large truck,Fuso and benz,Truck Fuso,7,On the Run,Unknown,Speeding,Car damaged,Non-fatal,Maman Musayi Road,Good
+2016-06-15,09h7,Car,Toyota premio,Car Toyota Premio against pedestrian,4,On the Run,Unknown,Poor parking,Toyota RAV4 and Motorcycle damaged,Non-fatal,Njiapanda,Good
+2016-06-16,10h29,Truck,Mitsubishi fuso,Mitsubishi Fuso against Moto Haodjin,4,Kambale,,Speeding,Damaged Motorcycle,Non-fatal,Ambiance Street,Bad
+2016-06-17,20h10,Truck,Toyota premio,Toyota Premio against pedestrian,8,Saambili,Saambili,Speeding,Damaged Senko Motorcycle,Non-fatal,Ambiance Street,Good
+2016-06-18,11h52,Motorcycle,Moto Haojin,Moto Haodjin against Vehicle RAV4,4,On the Run,Unknown,Involuntary manslaughter,Haojue Motorcycle,Non-fatal,Rwenda Road,Good
+2016-06-19,15h53,Truck,Toyota  rav4,RAV4 against Moto Haodjin,4,Kakule,,Speeding,Bodaboda,Fatal,Ambiance Street,Good
+2016-06-20,10h54,Motorcycle,Moto Haojin,Moto against vehicle,3,Kambale Jean,Kambale Jean,Speeding,No damage,Non-fatal,Njiapanda,Good
+2016-06-21,15h55,Truck,Toyota  rav4,RAV4 against Moto Haodjin,4,Non-Identified,Unknown,Mechanical failure,No damage,Non-fatal,Njiapanda,Bad
+2016-06-22,09h56,Large truck,Mercedes benz,Mercedes Benz,5,Paluku Lwanzo,,Wrong maneuver,Two Vehicles damaged,Fatal,Ambiance Street and Market Avenue Intersection,Good
+2016-06-23,10h57,Motorcycle,Haojang,Moto Haojang against pedestrian,4,Kasereka Matabishi,,Poor parking,Rahumu Car,Non-fatal,Njiapanda,Bad
+2016-06-24,08h38,Motorcycle,Moto Senko,Moto against itself,2,Non-Identified,Unknown,Failure to maintain safe distance between Vehicles,No damage,Fatal,Mutiri,Good
+2016-06-25,09h8,Motorcycle,Moto Haojin,Moto Haodjin against another unidentified Moto,9,Non-Identified,Unknown,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-06-26,10h30,Car,Jeep land cruiser,Vehicle Toyota Land Cruiser,8,Non-Identified,Unknown,Poor parking,No damage,Fatal,Vuhika Roundabout,Good
+2016-06-27,20h11,Motorcycle,Moto Haojin,Moto Haodjin against Car Toyota,7,Non-Identified,Unknown,Speeding,Damaged Motorcycle,Fatal,Njiapanda,Good
+2016-06-28,11h53,Motorcycle,Moto Senko,Moto Senko against pedestrian,6,Non-Identified,Unknown,Speeding,Damaged Motorcycle,Non-fatal,Kangote,Bad
+2016-06-29,15h54,Motorcycle,Tvs,,5,Non-Identified,Unknown,Involuntary manslaughter,No damage,Non-fatal,Kangote,Bad
+2016-06-30,10h55,Motorcycle,Moto Haojin,Moto Haodjin against another unidentified Moto,5,Non-Identified,Unknown,Speeding,Two Vehicles damaged,Fatal,Cap Lusando,Good
+2016-07-01,15h56,Truck,Jeep land cruiser,Vehicle Toyota Land Cruiser,2,Non-Identified,Unknown,Speeding,Rahumu Car,Fatal,Cap Lusando,Good
+2016-07-02,09h57,Motorcycle,Moto Haojin,Moto Haodjin against Car Toyota,2,On the Run,Unknown,Mechanical failure,No damage,Non-fatal,Vutetse,Good
+2016-07-21,10h29,Truck,Mercedes benz,,3,On the Run,Unknown,Wrong maneuver,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-07-22,20h10,Motorcycle,Moto Haojin,,3,On the Run,Unknown,Poor parking,No damage,Fatal,SOFICOM Roundabout,Bad
+2016-07-25,11h52,Motorcycle,Gold land,,3,On the Run,Unknown,Failure to maintain safe distance between Vehicles,Damaged Motorcycle,Non-fatal,Butembo-Beni Road above Kisalala,Good
+2016-07-26,15h53,Car,Toyota dyna,,2,On the Run,Unknown,Speeding,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-07-27,10h54,Motorcycle,Tvs,,2,,,Poor parking,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-07-28,15h55,Motorcycle,Moto Senko,Moto Senko against pedestrian,4,On the Run,Unknown,Speeding,Damaged Toyota Car,Fatal,Butembo-Beni Road above La Victoire,Good
+2016-07-29,09h56,Motorcycle,Haojue,,4,,,Speeding,Damaged TVS Motorcycle,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-07-29,10h57,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,4,,,Involuntary manslaughter,Damaged Motorcycle,Non-fatal,Njiapanda,Good
+2016-07-30,08h38,Truck,Nissan,,1,,,Speeding,Damaged Senko Motorcycle,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-07-30,09h8,Motorcycle,Moto Haojin,,4,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-07-30,10h30,Car,Toyota  rav4,,4,,,Mechanical failure,No damage,Fatal,Vutetse,Good
+2016-08-01,20h11,Motorcycle,Moto Haojin,Moto Haodjin against Vehicle RAV4,3,,,Wrong maneuver,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-08-02,11h53,Truck,Toyota  rav4,RAV4 against Moto Haodjin,2,,,Poor parking,Damaged Vehicle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-08-03,20h41,Motorcycle,Haojue,Moto against vehicle,2,,,Failure to maintain safe distance between Vehicles,Damaged Senko Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-08-04,19h42,Truck,Toyota  rav4,RAV4 against Moto Haodjin,2,On the Run,Unknown,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-08-05,11h43,Truck,Mercedes benz,Mercedes Benz,2,,,Poor parking,Damaged Vehicle,Non-fatal,Kangote,Good
+2016-08-06,12h44,Motorcycle,Haojang,Moto Haojang against pedestrian,5,,,Speeding,Damaged Vehicle,Fatal,Paluku Denis Road,Good
+2016-08-07,14h45,Motorcycle,Tvs,Moto against itself,3,,,Speeding,Damaged Haodjin Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-08-08,07h46,Motorcycle,Moto Haojin,Moto Haodjin against another unidentified Moto,3,,,Involuntary manslaughter,No damage,Non-fatal,Ambiance Street,Good
+2016-08-09,18h47,Car,Jeep land cruiser,Vehicle Toyota Land Cruiser,4,On the Run,Unknown,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-08-10,05h48,Motorcycle,Moto Haojin,Moto Haodjin against Car Toyota,2,On the Run,Unknown,Speeding,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-08-11,3h49,Motorcycle,Moto Senko,Moto Senko against pedestrian,1,On the Run,Unknown,Mechanical failure,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-08-12,16h00,Motorcycle,Tvs,,1,On the Run,Unknown,Wrong maneuver,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-08-13,16h49,Motorcycle,Moto Haojin,Moto Haodjin against another unidentified Moto,2,On the Run,Unknown,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-08-14,13h59,Car,Toyota carina,Car Toyota against Moto Senke,3,Non-Identified,Unknown,Failure to maintain safe distance between Vehicles,Haodjin Motorcycle And Car,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-08-15,8h00,Car,Toyota carina,Car Carina against Moto Haodjang,3,Non-Identified,Unknown,Speeding,Unidentified Vehicle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-08-16,17h49,Motorcycle,Moto Senke,Moto Senke,3,Non-Identified,Unknown,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-08-17,20h7,Motorcycle,Haojang,Haodjang against Senke Tembo,2,Non-Identified,Unknown,Speeding,Car And Damaged Kiosk,Fatal,"President of the Republic Street, above CADECO",Good
+2016-08-29,10h29,Large truck,Mitsubishi fuso,Mitsubishi Fuso against Moto cyclist,2,Non-Identified,Unknown,Speeding,Motorcycle And Car Damaged,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-08-29,20h10,Motorcycle,Moto Haojin,,3,Non-Identified,Unknown,Involuntary manslaughter,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-08-29,11h52,Car,Toyota premio,Car Toyota Premio against cyclist,7,Non-Identified,Unknown,Speeding,Haodjin Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-09-08,15h53,Truck,Isuzu,Isuzu Bovne against relocation vehicle,4,Non-Identified,Unknown,Speeding,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-09-09,10h54,Truck,Isuzu forward,Isuzu Forward against Toyota RAV4,6,,Unknown,Mechanical failure,Two Motorcycles Damaged,Fatal,Paluku Denis Road,Bad
+2016-09-09,15h55,Truck,Suzuki xl,Suzuki XL against unidentified Moto,7,On the Run,Unknown,Wrong maneuver,Damaged Jeep,Non-fatal,Maman Musayi Road,Good
+2016-09-09,09h56,Truck,Toyota  rav4,Jeep Toyota RAV4 against Car Corolla,4,On the Run,Unknown,Poor parking,No damage,Fatal,Njiapanda,Good
+2016-09-09,10h57,Motorcycle,Moto Haojin,Moto Haodjine against Moto Haodjin,6,On the Run,Unknown,Failure to maintain safe distance between Vehicles,Damaged RAV4,Non-fatal,Ambiance Street,Good
+2016-09-10,08h38,Motorcycle,Moto Senko,Moto Senko against Moto Senko,3,On the Run,Unknown,Speeding,Damaged RAV4,Fatal,Ambiance Street,Good
+2016-09-11,09h8,Motorcycle,Tvs,Moto TVS alone,5,On the Run,Unknown,Poor parking,No damage,Non-fatal,Rwenda Road,Bad
+2016-09-14,10h30,Car,Toyota corona primo,Car Corona Premio,3,On the Run,Unknown,Speeding,No damage,Non-fatal,Ambiance Street,Good
+2016-09-17,20h11,Car,Toyota ipsum,Car Ipsum,8,On the Run,Unknown,Speeding,Haodjin Motorcycle,Non-fatal,Njiapanda,Good
+2016-09-18,11h53,Motorcycle,Moto Haojin,Moto Haodjin,8,On the Run,Unknown,Involuntary manslaughter,Damaged Motorcycle,Fatal,Njiapanda,Good
+2016-09-24,20h41,Motorcycle,Haojang,Moto Haujang,4,On the Run,Unknown,Speeding,Two Motorcycles Damaged,Fatal,Ambiance Street and Market Avenue Intersection,Good
+2016-09-22,19h42,Motorcycle,Moto Senke,Moto Senke,9,On the Run,Unknown,Speeding,Damaged Jeep,Non-fatal,Njiapanda,Bad
+2016-09-26,11h43,Motorcycle,Haojue,Moto Haojue,4,On the Run,Unknown,Mechanical failure,No damage,Non-fatal,Mutiri,Good
+2016-09-26,12h44,Motorcycle,Moto Haojin,Moto Haodjin,8,On the Run,Unknown,Wrong maneuver,Damaged RAV4,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-09-27,10h30,Truck,Fuso and benz,Dump truck against Moto Haodjin,8,On the Run,Unknown,Poor parking,Damaged RAV4,Fatal,Vuhika Roundabout,Good
+2016-09-28,18h30,Truck,Toyota  rav4,,3,On the Run,Unknown,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,Njiapanda,Good
+2016-09-29,17h00,Motorcycle,Moto Senko,,7,On the Run,Unknown,Speeding,No damage,Fatal,Kangote,Good
+2016-09-30,12h00,Motorcycle,Haojue,,4,,Unknown,Poor parking,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-09,13h00,Truck,Toyota  rav4,,6,,Unknown,Speeding,Damaged Jeep,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-10-06,11h00,Motorcycle,Moto Haojin,,7,On the Run,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-09-29,18h30,Motorcycle,Moto Haojin,,4,On the Run,Unknown,Involuntary manslaughter,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-06,20h00,Car,Toyota carina,Car Toyota Carina,6,,,Speeding,Damaged Car,Fatal,"President of the Republic Street, above CADECO",Good
+2016-10-06,19h30,Motorcycle,Moto Haojin,,3,,,Speeding,Damaged Haodjin Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-07,17h30,Car,Toyota,,5,,,Mechanical failure,,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-10-08,16h30,Motorcycle,Moto Haojin,,3,,,Wrong maneuver,No damage,Non-fatal,Paluku Denis Road,Good
+2016-10-09,16h30,Motorcycle,Yamaha,,8,,,Poor parking,Damaged Motorcycle,Non-fatal,Paluku Denis Road,Good
+2016-10-15,20h00,Motorcycle,Haojang,Moto Haojang against pedestrian,8,On the Run,Unknown,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,Njiapanda,Good
+2016-10-17,17h00,Truck,Isuzu,,4,,,Speeding,Car From The Roadway,Fatal,"President of the Republic Street, above CADECO",Good
+2016-10-15,7h30,Motorcycle,Moto Haojin,,9,On the Run,Unknown,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2106-10-15,14h00,Car,Toyota corona,,4,,,Speeding,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-18,17h00,Motorcycle,Moto Haojin,,8,On the Run,Unknown,Speeding,Damaged Haodjin Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-10-20,15h59,Car,Toyota corona,,8,,,Involuntary manslaughter,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-21,14h30,Truck,Toyota hilux,,2,,,Speeding,Motorcycle damaged,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-22,17h30,Motorcycle,Moto Senko,,1,,,Speeding,Damaged Van,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-10-24,19h00,Motorcycle,Haojue,,2,,,Mechanical failure,Mudguard And Left Door,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-19,16h30,Motorcycle,Moto Haojue,,3,On the Run,Unknown,Wrong maneuver,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-10-25,15h00,Truck,Toyota  rav4,,6,Non-Identified,Unknown,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-28,14h00,Motorcycle,Moto Senko,,7,,,Failure to maintain safe distance between Vehicles,Damaged Senke Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-10-29,14h30,Truck,Mitsubishi fuso,,4,On the Run,Unknown,Speeding,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-11-02,19h00,Truck,Mercedes benz,,4,On the Run,Unknown,Poor parking,Damaged Vehicle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-11-03,15h00,Car,Rahum,,8,,,Speeding,Damaged Car,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-11-03,15h00,Truck,Mercedes benz,,4,,,Speeding,Damaged Car,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-11-03,17h30,Motorcycle,Moto Haojin,,4,,,Involuntary manslaughter,Damaged Motorcycle,Fatal,Paluku Denis Road,Good
+2016-10-30,17h00,Motorcycle,Moto Senke,,3,,,Speeding,No damage,Non-fatal,Paluku Denis Road,Good
+2016-11-05,16h00,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,4,,,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-11-06,22h00,Car,Toyota premio,Car Toyota Premio against pedestrian,5,,,Mechanical failure,Damaged Vehicle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-11-19,14h00,Car,Toyota carina,,4,,,Wrong maneuver,Damaged Vehicle,Non-fatal,RN4 above the Historic Monument,Bad
+2016-11-13,17h30,Car,Toyota premio,,2,,,Poor parking,Damaged Car,Non-fatal,RN4 above Takenga Roundabout,Good
+2016-10-31,18h00,Truck,Isuzu,,9,,,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-11-01,14h00,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,8,,,Speeding,Damaged Motorcycle,Non-fatal,SONAS Roundabout,Good
+2016-11-12,18h00,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,7,,,Poor parking,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-11-12,21h00,Car,Toyota carina,,6,,,Speeding,No damage,Non-fatal,Kananasi Roundabout,Bad
+2016-11-21,04h40,Motorcycle,Haojue,,5,,,Speeding,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-11-24,18h30,Motorcycle,Moto Honda,,5,,,Involuntary manslaughter,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2016-11-16,19h00,Motorcycle,Haojang,,2,Non-Identified,Unknown,Speeding,No damage,Non-fatal,RN4 above the Former Ami Client,Good
+2016-11-23,16h30,Motorcycle,Tvs,,2,,,Speeding,No damage,Fatal,RN4 above Kahutura Roundabout,Good
+2016-11-25,15h00,Truck,Jeep suzuki,,3,On the Run,Unknown,Mechanical failure,No damage,Non-fatal,RN4 above the Former Ami Client,Good
+2016-11-25,14h00,Motorcycle,Haojue,,3,,,Wrong maneuver,No damage,Non-fatal,Takenga Roundabout,Good
+2016-11-23,14h30,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,3,,,Poor parking,Damaged Motorcycle,Non-fatal,Njiapanda,Bad
+2016-11-28,19h00,Motorcycle,Moto Haojin,,2,,,Failure to maintain safe distance between Vehicles,Damaged Motorcycle,Non-fatal,Ambiance Street above Masisi Avenue,Bad
+2016-11-28,15h00,Motorcycle,Moto Senko,Moto Senko against pedestrian,2,,,Speeding,Damaged Motorcycle,Non-fatal,Ambiance Street,Good
+2016-11-26,15h00,Motorcycle,Moto Haojin,,4,On the Run,Unknown,Poor parking,Damaged Motorcycle,Non-fatal,Njiapanda,Good
+2016-11-28,17h30,Motorcycle,Tractor,,4,,,Speeding,Damaged Vehicle,Non-fatal,Njiapanda,Good
+2016-11-30,17h00,Motorcycle,Toyota  rav4,,4,,,Speeding,Damaged Vehicle,Fatal,Njiapanda,Good
+2016-11-26,16h00,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,1,On the Run,Unknown,Involuntary manslaughter,Damaged Motorcycle,Non-fatal,Njiapanda,Bad
+2016-11-27,22h00,Truck,Toyota  rav4,,4,On the Run,Unknown,Speeding,Damaged Motorcycle,Non-fatal,Njiapanda,Good
+2016-11-28,14h00,Motorcycle,Moto Senko,,4,On the Run,Unknown,Speeding,Damaged Motorcycle,Fatal,Njiapanda,Good
+2016-11-29,17h30,Truck,Mercedes benz,,3,On the Run,Unknown,Mechanical failure,Damaged Motorcycle,Non-fatal,Njiapanda,Good
+2016-11-30,18h00,Motorcycle,Moto haojue,,2,On the Run,Unknown,Wrong maneuver,Damaged Motorcycle,Fatal,Njiapanda,Good
+2016-11-30,10h30,Motorcycle,Moto haojue,,2,Non-Identified,Unknown,Poor parking,No damage,Non-fatal,Paluku Denis Road,Bad
+2016-12-10,20h11,Truck,Jeep land cruiser,,2,,,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,Njiapanda,Good
+2016-12-11,11h53,Motorcycle,Moto Haojin,,2,,,Speeding,No damage,Non-fatal,Vutetse,Bad
+2016-12-11,20h41,Truck,Mitsubishi fuso,,5,Non-Identified,Unknown,Poor parking,No damage,Non-fatal,Njiapanda,Good
+2016-12-11,19h42,Truck,Jeep x-trail,,3,Non-Identified,Unknown,Speeding,Vehicle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-12-12,11h43,Motorcycle,Moto Senke,,3,,,Speeding,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2016-12-12,12h44,Bus,Toyota,,4,Muhindo,Muhindo,Involuntary manslaughter,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-12-13,10h30,Motorcycle,Moto Haojin,,2,Non-Identified,Unknown,Speeding,No damage,Non-fatal,Takenga Roundabout,Bad
+2016-12-13,18h30,Truck,Jeep suzuki,,1,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-12-15,17h00,Motorcycle,Haojang,,1,,,Mechanical failure,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-12-16,12h00,Motorcycle,Haojang,,2,,,Wrong maneuver,No damage,Non-fatal,SOFICOM Roundabout,Good
+2016-12-17,13h00,Motorcycle,Yamaha,,3,,,Poor parking,No damage,Non-fatal,Ambiance Street,Good
+2016-12-18,11h00,Large truck,Fuso and benz,,3,,,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-12-19,11h40,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,3,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2016-12-20,12h00,Car,Toyota premio,,2,,,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-12-21,14h00,Motorcycle,Haojang,,2,,,Speeding,No damage,Non-fatal,SOFICOM Roundabout,Good
+2016-12-22,10h50,Motorcycle,Moto Senke,,3,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-12-23,18h00,Motorcycle,Moto Senke,,7,,,Involuntary manslaughter,No damage,Fatal,Vutetse,Good
+2016-12-24,15h00,Motorcycle,Haojang,,4,On the Run,Unknown,Speeding,No damage,Non-fatal,Njiapanda,Bad
+2016-12-25,19h00,Motorcycle,Moto Senke,,6,On the Run,Unknown,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2016-12-26,11h00,Motorcycle,Haojang,,7,On the Run,Unknown,Mechanical failure,No damage,Non-fatal,Vutetse,Bad
+2016-12-27,16h00,Motorcycle,Moto Senke,,4,On the Run,Unknown,Wrong maneuver,No damage,Non-fatal,RN4 above the KAHEHERO Building,Good
+2016-12-28,16h00,Motorcycle,Moto Senke,,6,On the Run,Unknown,Poor parking,No damage,Fatal,SOFICOM Roundabout,Good
+2016-12-29,16h00,Motorcycle,Moto Senke,,3,On the Run,Unknown,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-12-30,23h00,Truck,Mitsubishi fuso,,5,On the Run,Unknown,Speeding,House And Building Door,Non-fatal,"President of the Republic Street, above CADECO",Good
+2016-12-31,11h00,Motorcycle,Haojang,Moto Haojang against pedestrian,3,On the Run,Unknown,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-01-01,18h30,Motorcycle,Moto Boxer,,8,On the Run,Unknown,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-01-02,17h00,Car,Toyota premio,,8,On the Run,Unknown,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-03,12h00,Motorcycle,Haojue,,4,On the Run,Unknown,Involuntary manslaughter,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-04,13h00,Truck,Toyota,,9,On the Run,Unknown,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-05,11h00,Large truck,Fuso and benz,,4,On the Run,Unknown,Speeding,No damage,Non-fatal,Ambiance Street,Good
+2017-01-06,11h40,Bus,Toyota,,8,On the Run,Unknown,Mechanical failure,No damage,Non-fatal,Ambiance Street,Bad
+2017-01-07,12h00,Car,Toyota carina,,8,On the Run,Unknown,Wrong maneuver,Left Door Damaged,Non-fatal,Ambiance Street,Good
+2017-01-08,17h32,Motorcycle,Moto Haojin,,2,On the Run,Unknown,Poor parking,Damaged Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-09,11h33,Truck,Toyota  rav4,,7,,,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-10,15h34,Truck,Fuso and benz,,4,,,Speeding,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Good
+2017-01-11,11h30,Motorcycle,Yamaha,,6,On the Run,Unknown,Poor parking,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-01-12,14h30,Motorcycle,Moto Haojin,,7,,,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-13,10h30,Truck,Jeep escudo,,4,,,Speeding,No damage,Non-fatal,SOFICOM Roundabout,Bad
+2017-01-14,14h30,Car,Toyota corona premio,,6,,,Involuntary manslaughter,No damage,Non-fatal,Njiapanda,Good
+2017-01-15,13h30,Motorcycle,Moto haojin,,3,On the Run,Unknown,Speeding,No damage,Non-fatal,Vutetse,Good
+2017-01-16,14h30,Motorcycle,D-tray,,5,,,Speeding,No damage,Non-fatal,Njiapanda,Good
+2017-01-17,12h30,Motorcycle,Moto Haojin,,3,,,Mechanical failure,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2017-01-18,14h30,Car,Jeep escudo,,8,,,Wrong maneuver,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-01-19,16h30,Car,Toyota corona premio,,8,,,Poor parking,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-01-20,19h30,Motorcycle,Moto Senke,,4,,,Failure to maintain safe distance between Vehicles,No damage,Fatal,SONAS Roundabout,Good
+2017-01-21,17h31,Motorcycle,Haojue,,9,,,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-22,15h32,Car,Toyota corona premio,,4,On the Run,Unknown,Poor parking,No damage,Non-fatal,Njiapanda,Good
+2017-01-23,15h33,Motorcycle,Haojue,,8,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2017-01-24,16h34,Truck,Jeep land cruiser,,8,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-01-25,10h35,Truck,Mitsubishi fuso,,2,,,Involuntary manslaughter,No damage,Non-fatal,SOFICOM Roundabout,Good
+2017-01-26,09h36,Motorcycle,Haojang,,1,Non-Identified,Unknown,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-27,22h37,Motorcycle,Haojang,,2,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2017-01-28,19h38,Motorcycle,Moto Senke,,3,,,Mechanical failure,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-29,6h39,Motorcycle,Moto Senke,,6,,,Wrong maneuver,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-01-30,14h40,Truck,Jeep escudo,,7,,,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-01-31,20h41,Car,Toyota corona premio,,4,Non-Identified,Unknown,Failure to maintain safe distance between Vehicles,House Roof,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-02-01,19h42,Motorcycle,Moto Senke,,4,Non-Identified,Unknown,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-02-02,23h00,Truck,Jeep nissan,,8,Muhindo Lusenge,CENI Driver,Poor parking,,Fatal,"President of the Republic Street, above CADECO",Good
+2017-02-03,11h00,Truck,Toyota hilux,,4,Muhindo Musavuli,Muhindo Musavuli,Speeding,Vehicle and Motorcycle damaged,Non-fatal,Njiapanda,Good
+2017-02-04,18h30,Truck,Toyota  rav4,,4,Unknown,Unknown,Speeding,Damaged Motorcycle,Fatal,Kingungu,Good
+2017-02-05,17h00,Motorcycle,Yamaha,,3,Jonas Kakule Musavuli,Jonas Kakule Musavuli,Involuntary manslaughter,Damaged Motorcycle,Non-fatal,President of the Republic Street above OFIDA,Bad
+2017-02-06,12h00,Bus,Toyota,,4,Paluku Fiston,Paluku Fiston,Speeding,Toyota Corolla Car damaged,Non-fatal,Ambiance Street,Bad
+2017-02-07,13h00,Car,Toyota premio,,5,Shauri,Shauri,Speeding,Minibus damaged,Non-fatal,Njiapanda,Good
+2017-02-08,11h00,Motorcycle,Moto Senko,,4,Mumbere Makata,Mumbere Makata,Mechanical failure,No damage,Non-fatal,Takenga Roundabout,Good
+2017-02-09,11h40,Truck,Jeep suzuki,Jeep Suzuki,2,Kambale Muhasa,Kambale Muhasa,Wrong maneuver,Suzuki and Kidubai House fence damaged,Non-fatal,President of the Republic Street above CADECO,Good
+2017-02-10,12h00,Truck,Toyota  rav4,Jeep Toyota RAV4,9,Kambale Gedeon,Kambale Gedeon,Poor parking,Less important,Fatal,Ambiance Street,Bad
+2017-02-11,17h32,Motorcycle,Moto Senko,,8,Kambale Kakundika,Kambale Kakundika,Failure to maintain safe distance between Vehicles,Two Motorcycles damaged,Non-fatal,Ambiance Street,Good
+2017-02-12,11h33,Truck,Isuzu,Truck Isuzu,7,Kakule Syauswa,Kakule Syauswa,Speeding,Damaged Vehicle,Non-fatal,Auberge Road,Good
+2017-02-13,15h34,Truck,Toyota  rav4,Jeep Toyota RAV4,6,Kakule Bedjame,Kakule Bedjame,Poor parking,Damaged Jeep,Fatal,President of the Republic Street above Kangote,Good
+2017-02-14,11h30,Motorcycle,Moto Senke,Moto Senke,5,Archipe,Archipe,Speeding,No damage,Non-fatal,Furu,Good
+2017-02-15,14h30,Car,Toyota,Car Toyota,5,Mahamba Kegho,Mahamba Kegho,Speeding,No damage,Fatal,Ambiance Street,Bad
+2017-02-16,10h30,Car,Toyota carina,Car Toyota Carina,2,Pascale Maelezo,Pascale Maelezo,Involuntary manslaughter,Damaged Motorcycle,Fatal,Ambiance Street,Bad
+2017-02-17,14h30,Car,Toyota IST,Car Toyota IST,2,Kambale Grâce,Kambale Grâce,Speeding,Car and fence damaged,Non-fatal,Ambiance Street,Good
+2017-02-18,11h33,Motorcycle,Yamaha,Moto Yamaha,3,Unknown,Unknown,Speeding,No damage,Fatal,Ambiance Street,Good
+2017-02-19,15h34,Truck,Toyota  rav4,Jeep Toyota RAV4,3,Non-Identified,Unknown,Mechanical failure,Damaged Jeep,Non-fatal,Ambiance Street,Good
+2017-02-20,11h30,Truck,Fuso and benz,Truck Fuso,3,Non-Identified,Unknown,Wrong maneuver,Damaged Truck,Non-fatal,Ambiance Street,Good
+2017-02-21,14h30,Car,Toyota premio,Car Toyota Premio against pedestrian,2,Mumbere Muvunga Piscase,Mumbere Muvunga Piscase,Poor parking,No damage,Fatal,Rwenda,Good
+2017-02-22,10h30,Truck,Mitsubishi fuso,Mitsubishi Fuso against Moto Haodjin,2,Mumbere Kaghoma Jonathan,Mumbere Kaghoma Jonathan,Failure to maintain safe distance between Vehicles,Damaged Car,Fatal,La Victoire Parking,Good
+2017-02-23,14h30,Car,Toyota premio,Toyota Premio against pedestrian,4,Kasereka Kitali,Kasereka Kitali,Speeding,No damage,Non-fatal,Ambiance Street,Good
+2017-02-24,10h30,Motorcycle,Moto Haojin,Moto Haodjin against Vehicle RAV4,5,Mumbere Mastaki,Mumbere Mastaki,Poor parking,No damage,Fatal,Kangote,Good
+2017-02-25,14h30,Truck,Toyota  rav4,RAV4 against Moto Haodjin,4,Lambert,Lambert,Speeding,No damage,Fatal,Ambiance Street,Good
+2017-02-26,10h30,Motorcycle,Moto Haojin,Moto Haodjin against pedestrian,2,,,Speeding,Less important,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-11,14h50,Truck,Mitsubishi fuso,,9,,,Involuntary manslaughter,Less important,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-13,22h00,Truck,Toyota  rav4,,8,,,Speeding,Damaged Jeep,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-13,19h03,Car,Toyota premio,,7,,,Speeding,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-14,13h00,Truck,Mitsubishi fuso,,6,,,Mechanical failure,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-16,18h30,Motorcycle,Haojue,,5,,,Wrong maneuver,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-19,18h00,Motorcycle,Haojue,,5,,,Poor parking,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-22,09h30,Truck,Toyota  rav4,,2,,,Failure to maintain safe distance between Vehicles,Damaged Handlebar,Non-fatal,Njiapanda,Bad
+2017-03-23,18h30,Motorcycle,Haojang,Moto Haojang against pedestrian,2,,,Speeding,Damaged Handlebar,Fatal,Vutetse,Bad
+2017-03-25,13h30,Motorcycle,Haojue,,3,,,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-25,19h03,Motorcycle,Haojue,,3,,,Speeding,No damage,Fatal,SOFICOM Roundabout,Bad
+2017-03-25,19h03,Motorcycle,Tvs,,3,,,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-26,13h30,Motorcycle,Haojue,,2,On the Run,Unknown,Involuntary manslaughter,No damage,Fatal,Ambiance Street,Good
+2017-03-26,12h30,Truck,Jeep harrier,,2,,,Speeding,No damage,Non-fatal,SOFICOM Roundabout,Good
+2017-03-27,09h30,Truck,Toyota  rav4,,4,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2017-03-27,07h30,Motorcycle,Moto Haojin,,4,On the Run,Unknown,Mechanical failure,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-03-28,09h30,Car,Toyota corona premio,,4,On the Run,Unknown,Wrong maneuver,No damage,Non-fatal,Takenga Roundabout,Good
+2017-03-29,16h30,Motorcycle,Haojue,,1,,,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-03-29,19h00,Motorcycle,Moto Senke,,4,,,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-03-29,14hH00,Motorcycle,Haojang,,4,,,Speeding,Motorcycle Headlight And Mudguard,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-05,16h30,Motorcycle,Moto Haojin,,3,,,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-05,19h30,Truck,Toyota  rav4,Toyota rav4 against Moto Senke,2,,,Speeding,Motorcycle Headlight And Mudguard,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-05,17h31,Motorcycle,Haojue,,2,,,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-05,15h32,Motorcycle,Haojue,,2,,,Involuntary manslaughter,Motorcycle Headlight And Mudguard,Non-fatal,Kangote,Bad
+2017-04-06,15h33,Motorcycle,Moto Senko,,2,,,Speeding,Motorcycle Headlight And Mudguard,Non-fatal,Mutsanga Road,Bad
+2017-04-06,16h34,Motorcycle,Mercedes actros,,5,,,Speeding,Damaged Truck Cabin,Fatal,Butembo-Beni Road above Amini Yesu Village,Bad
+2017-04-08,10h35,Motorcycle,Moto Senko,,3,,,Mechanical failure,Less Important Overall,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-09,09h36,Car,Toyota carina,,3,,,Wrong maneuver,,Non-fatal,Kangote,Bad
+2017-04-09,22h37,Motorcycle,Moto Senke,,4,,,Poor parking,No damage,Non-fatal,MONUSCO Road,Bad
+2017-04-09,19h38,Motorcycle,Moto Haojin,,2,,,Failure to maintain safe distance between Vehicles,Motorcycle Headlight And Handlebar Damaged,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-09,6h39,Motorcycle,Haojang,,1,,,Speeding,Motorcycle Front Shock Absorber Damaged,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-09,14h40,Truck,Mercedes actros,,1,,,Poor parking,Damaged Truck Cabin,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-09,20h41,Motorcycle,Moto Senko,,2,,,Speeding,Less important,Non-fatal,Butembo-Beni Road above Amini Yesu Village,Bad
+2017-04-09,19h42,Car,Toyota carina,,3,,,Speeding,Mudguard And Left Door,Non-fatal,Kangote,Bad
+2017-04-09,23h00,Truck,Jeep,,3,,,Involuntary manslaughter,Very Important For The Jeep,Fatal,"President of the Republic Street, above CADECO",Good
+2017-04-11,11h00,Truck,Toyota  rav4,,3,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2017-04-16,18h30,Car,Toyota rav4,,2,,,Speeding,Left Side Bumper And Mudguard,Non-fatal,RN4 above the Cap-Kalimbite Hotel Bar,Bad
+2017-04-16,17h00,Car,Toyota premio,,2,,,Mechanical failure,Significant damage to the Motorcycle,Non-fatal,Butembo-Beni Road above Kisalala,Bad
+2017-04-19,12h00,Truck,Toyota  rav4,,3,,,Wrong maneuver,Less important,Fatal,Njiapanda,Bad
+2017-04-22,13h00,Motorcycle,Haojue,,7,,,Poor parking,,Non-fatal,Njiapanda,Bad
+2017-04-22,11h00,Motorcycle,Moto Haojin,,4,,,Failure to maintain safe distance between Vehicles,,Non-fatal,Vutetse,Bad
+2017-04-22,11h40,Motorcycle,Haojang,Moto Haojang against pedestrian,6,,,Speeding,Haojue Motorcycle Without License Plate Against Pedestrian,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-04-23,12h00,Motorcycle,Haojue,,7,,,Poor parking,Damaged TVS Max Star Motorcycle,Fatal,SOFICOM Roundabout,Good
+2017-04-24,17h32,Motorcycle,Haojue,,4,,,Speeding,,Non-fatal,Historic Roundabout,Bad
+2017-04-25,11h33,Motorcycle,Tvs,,6,,,Speeding,Jeep Harrier Crisis Broken Down,Fatal,Kangote,Bad
+2017-04-26,15h34,Motorcycle,Haojue,,3,,,Involuntary manslaughter,Damaged RAV4 Jeep,Fatal,Mutsanga Road,Bad
+2017-04-27,11h30,Truck,Jeep harrier,,5,,,Speeding,Haodjin Motorcycle Against RAV4 Jeep Without License Plate,Non-fatal,SONAS Roundabout,Bad
+2017-04-28,14h30,Truck,Toyota  rav4,,3,,,Speeding,Peimo Car Broken Down,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-04-29,10h30,Motorcycle,Moto Haojin,,8,,,Mechanical failure,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2017-04-30,14h30,Car,Toyota corona premio,,8,,,Wrong maneuver,Senke Bodaboda Motorcycle Less Important,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-05-01,11h33,Motorcycle,Haojue,,4,,,Poor parking,Red Haojiang Motorcycle Broken Down,Fatal,"President of the Republic Street, above CADECO",Good
+2017-05-02,15h34,Motorcycle,Moto Senko,,9,,,Failure to maintain safe distance between Vehicles,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-05-03,11h30,Motorcycle,Haojang,,4,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Good
+2017-05-04,14h30,Motorcycle,Moto Haojin,,8,,,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-05-05,10h30,Truck,Toyota  rav4,,8,,,Speeding,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-06,14h30,Truck,Fuso and benz,,2,,,Speeding,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-07,10h30,Motorcycle,Yamaha,,7,,,Involuntary manslaughter,No damage,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-08,10h55,Motorcycle,Moto Haojin,,4,,,Speeding,,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-09,08h36,Truck,Jeep escudo,,6,,,Speeding,,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-10,09h6,Car,Toyota corona premio,,7,,,Mechanical failure,,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-11,10h28,Motorcycle,Moto Haojin,,4,,,Wrong maneuver,,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-12,20h9,Motorcycle,D-tray,,6,,,Poor parking,,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-13,11h51,Motorcycle,Moto Haojin,,3,,,Failure to maintain safe distance between Vehicles,Damaged Motorcycle,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-14,15h52,Truck,Jeep escudo,,5,,,Speeding,,Non-fatal,Paluku Denis Road above the Cathedral Roundabout,Bad
+2017-05-15,10h53,Car,Toyota corona premio,,3,,,Poor parking,,Fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-16,15h54,Motorcycle,Moto Senke,,8,,,Speeding,Haojue Motorcycle Without License Plate Against Pedestrian,Non-fatal,Rwenda Road above Kitulu Roundabout,Bad
+2017-05-17,09h55,Motorcycle,Haojue,,8,,,Speeding,Damaged TVS Max Star Motorcycle,Non-fatal,"President of the Republic Street, above CADECO",Good
+2017-05-18,10h56,Car,Toyota corona premio,,4,,,Involuntary manslaughter,,Fatal,"President of the Republic Street, above CADECO",Good
+2017-05-19,08h37,Motorcycle,Haojue,,9,,,Speeding,Jeep Harrier Crisis Broken Down,Fatal,"President of the Republic Street, above CADECO",Good
+2017-05-20,09h7,Truck,Jeep land cruiser,,4,,,Speeding,Damaged RAV4 Jeep,Non-fatal,Njiapanda,Good
+2017-05-21,10h29,Truck,Mitsubishi fuso,,8,,,Mechanical failure,Haodjin Motorcycle Against RAV4 Jeep Without License Plate,Fatal,Njiapanda,Good
+2017-05-22,20h10,Motorcycle,Haojang,,8,,,Wrong maneuver,Peimo Car Broken Down,Non-fatal,Vutetse,Good
+2017-05-23,11h52,Motorcycle,Haojang,,2,,Unknown,Poor parking,No damage,Non-fatal,"President of the Republic Street, above CADECO",Bad
+2017-05-24,15h53,Motorcycle,Moto Senke,,1,,Unknown,Failure to maintain safe distance between Vehicles,Senke Bodaboda Motorcycle Less Important,Non-fatal,SOFICOM Roundabout,Bad
+2017-05-25,10h54,Motorcycle,Moto Senke,,2,,Unknown,Speeding,Red Haojiang Motorcycle Broken Down,Non-fatal,Historic Roundabout,Bad
